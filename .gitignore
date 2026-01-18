@@ -1,0 +1,8 @@
+# Java ve IntelliJ Copleri
+.idea/
+*.iml
+out/
+target/
+*.class
+*.log
+.DS_Store
